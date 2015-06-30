@@ -1,0 +1,17 @@
+{
+  "name": "desarollo-web-agil-con-angular",
+  "version": "0.0.1",
+  "description": "curso desarrollo de aplicación web con AngularJS - by Carlos Azaustre",
+  "bugs": {
+    "url": "https://github.com/MPizarroAGM/desarrollo-web-agil-con-angular/issues",
+    "email": "pmiguel.nio@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Miguel Pizarro C",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MPizarroAGM/desarrollo-web-agil-con-angular"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
